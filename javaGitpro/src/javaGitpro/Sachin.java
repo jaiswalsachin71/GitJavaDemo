@@ -4,6 +4,7 @@ public class Sachin {
 public static void main(String[] args) {
 	System.out.println("class sachin");
 	Sachin s=new Sachin();
+	
 	s.m1();
 }
 	public void m1()
